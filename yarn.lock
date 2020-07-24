@@ -12193,10 +12193,10 @@ ngx-countdown@^9.0.0:
   resolved "https://registry.yarnpkg.com/ngx-countdown/-/ngx-countdown-9.0.1.tgz#ea96dbcdb82af5874f08490a8769ddf919e34c8d"
   integrity sha512-g8xUMuUZanv0FID2D82xYKv2SqQyggczcZOP3CqEbjGb5Y6NHBWjdJPN2rX5WJxwH8FScPgSKdkH8glmRQCGLw==
 
-ngx-echarts@5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/ngx-echarts/-/ngx-echarts-5.0.0.tgz#eefb1c914e43ece0d02d5b9f6439ecd117127c28"
-  integrity sha512-Ln+ex5PJJt+yztQIybTM2vf5JPHe36IrhdCNZL/FCYbIzHjnjXeK1ImCwh7GfpmlaT62B/3ZASBwouhsPOplRQ==
+ngx-echarts@5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/ngx-echarts/-/ngx-echarts-5.1.0.tgz#d3d1a8e8bb580017b8a032d065163e763ecabeab"
+  integrity sha512-YBSH+zAsZ9QNRJl4Xxvkg9CiGfYrvbZrgQhoRmJYU4zud3jPvhamSrRH0YJwesvm9eXhTOREoWdmVUKAFMee6A==
 
 ngx-file-drop@9.0.1:
   version "9.0.1"
